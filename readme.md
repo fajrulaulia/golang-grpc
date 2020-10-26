@@ -39,8 +39,7 @@ you can use `make` command to create new protobuf file.
 $ proto=kucing make create-proto
 ```
 
-for generate you can use 
-
+### generate file after you modify adn define protobuf file
 ``` bash
 ## kucing is a file name and will generate protobuf file
 ## check in your project folder, filename kucing.proto will create
